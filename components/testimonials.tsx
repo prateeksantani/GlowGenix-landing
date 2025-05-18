@@ -3,22 +3,22 @@ import { Star } from "lucide-react"
 export default function Testimonials() {
   const testimonials = [
     {
-      name: "Emma Johnson",
-      location: "New York, NY",
+      name: "Priya Patel",
+      location: "New Delhi, India",
       quote:
         "I've tried countless serums, but GlowGenix is truly different. My skin has never looked more radiant and healthy. The texture is so smooth and it absorbs quickly without any greasy feeling.",
       stars: 5,
     },
     {
-      name: "Sophia Chen",
+      name: "Sophia Joseph",
       location: "Los Angeles, CA",
       quote:
         "After just two weeks of using the Radiance Renewal Serum, I noticed a significant reduction in my dark spots and overall improvement in my skin tone. It's now a permanent part of my skincare routine!",
       stars: 5,
     },
     {
-      name: "Olivia Williams",
-      location: "Chicago, IL",
+      name: "Kavya Singh",
+      location: "Mumbai, India",
       quote:
         "As someone with sensitive skin, I'm always cautious about trying new products. GlowGenix not only didn't irritate my skin, but it actually helped calm redness and improve my skin's barrier. Truly impressive!",
       stars: 4,

@@ -9,22 +9,16 @@ export default function BeforeAfter() {
 
   const results = [
     {
-      before: "/placeholder.svg?height=400&width=300",
-      after: "/placeholder.svg?height=400&width=300",
-      name: "Sarah, 34",
-      duration: "After 4 weeks",
-    },
-    {
-      before: "/placeholder.svg?height=400&width=300",
-      after: "/placeholder.svg?height=400&width=300",
-      name: "Michelle, 42",
-      duration: "After 6 weeks",
-    },
-    {
-      before: "/placeholder.svg?height=400&width=300",
-      after: "/placeholder.svg?height=400&width=300",
+      before: "/images/before-3.png?height=400&width=300",
+      after: "/images/after-3.png?height=400&width=300",
       name: "Jessica, 28",
       duration: "After 3 weeks",
+    },
+    {
+      before: "/images/Before-mit.png?height=400&width=300",
+      after: "/images/After-mit.png?height=400&width=300",
+      name: "Sarah, 42",
+      duration: "After 4 weeks",
     },
   ]
 
