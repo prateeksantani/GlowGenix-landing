@@ -15,8 +15,8 @@ export default function BeforeAfter() {
       duration: "After 3 weeks",
     },
     {
-      before: "/images/Before-mit.png?height=400&width=300",
-      after: "/images/After-mit.png?height=400&width=300",
+      before: "/images/Before-2.jpg?height=400&width=300",
+      after: "/images/After-2.jpg?height=400&width=300",
       name: "Sarah, 42",
       duration: "After 4 weeks",
     },
